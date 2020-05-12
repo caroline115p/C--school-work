@@ -1,0 +1,28 @@
+Script started on Wed 31 Oct 2018 11:30:20 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/jpark728/cs2211/asn3
+bash-4.2$ date
+Wed Oct 31 23:30:23 EDT 2018
+bash-4.2$ whoami
+jpark728
+bash-4.2$ ./evaluate
+Enter the arithmetic expression:5
+1589811728Would you like to continue?:Y/NY
+Enter the arithmetic expression:3*4
+1589811728Would you like to continue?:Y/NY
+Enter the arithmetic expression:4+3
+1589811728Would you like to continue?:Y/NY
+Enter the arithmetic expression:26/2-1.5*10-100
+Y
+bash-4.2$ ./evaluate
+Enter the arithmetic expression:-2.0*2+1.5*10-100
+Y
+bash-4.2$ ./evaluate
+Enter the arithmetic expression:3.5--1.5*10/3.0+2*3
+Y
+bash-4.2$ ./evaluate
+Enter the arithmetic expression:3.5-1.5%10-2.0
+bash-4.2$ exit
+exit
+
+Script done on Wed 31 Oct 2018 11:32:21 PM EDT
