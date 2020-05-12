@@ -1,0 +1,23 @@
+Script started on Tue 16 Oct 2018 10:58:19 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/jpark728/cs2211/asn2
+bash-4.2$ date
+Tue Oct 16 22:58:23 EDT 2018
+bash-4.2$ whoami
+jpark728
+bash-4.2$ ./exp_calculator
+What is the base number?:3
+What is the exponent number?:5
+ 3.000000^5 =243.000000
+bash-4.2$ ./exp_calculator
+What is the base number?:3
+What is the exponent number?:-5
+ 3.000000^-5 =0.004115
+bash-4.2$ ./exp_calculator
+What is the base number?:-3
+Base is not a positive numberWhat is the exponent number?:4
+ -3.000000^4 =81.000000
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 10:59:51 PM EDT

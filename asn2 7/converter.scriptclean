@@ -1,0 +1,53 @@
+Script started on Tue 16 Oct 2018 10:56:27 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/jpark728/cs2211/asn2
+bash-4.2$ date
+Tue Oct 16 22:56:30 EDT 2018
+bash-4.2$ whoami
+jpark728
+bash-4.2$ ./converter
+Enter the character for the type of conversion:1
+Enter the character for the direction of the conversion:K
+Enter the number for the conversion:23
+23.000000 km
+14.291533 mile
+Enter the character for the type of conversion:1
+Enter the character for the direction of the conversion:M
+Enter the number for the conversion:15
+15.000000 mile
+24.140100 km
+Enter the character for the type of conversion:2
+Enter the character for the direction of the conversion:M
+Enter the number for the conversion:23
+23.000000 meter
+75.459320 feet
+Enter the character for the type of conversion:2
+Enter the character for the direction of the conversion:F
+Enter the number for the conversion:75
+75.000000 feet
+22.860000 meter
+Enter the character for the type of conversion:3
+Enter the character for the direction of the conversion:C
+Enter the number for the conversion:15
+15.000000 centimetere
+5.905515 inch
+Enter the character for the type of conversion:3
+Enter the character for the direction of the conversion:I
+Enter the number for the conversion:5
+5.000000 inch
+12.700000 centimetere
+Enter the character for the type of conversion:4
+Enter the character for the direction of the conversion:C
+Enter the number for the conversion:50
+50.000000 celisus
+122.000000 fahrenheit
+Enter the character for the type of conversion:4
+Enter the character for the direction of the conversion:F
+Enter the number for the conversion:122
+122.000000 fahrenheit
+50.000004 celsius
+Enter the character for the type of conversion:5
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 10:58:10 PM EDT
