@@ -1,0 +1,32 @@
+Script started on Tue 25 Sep 2018 01:37:24 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/jpark728/Courses/Courses/CS2211a
+bash-4.2$ date
+Tue Sep 25 13:37:35 EDT 2018
+bash-4.2$ whoami
+jpark728
+bash-4.2$ find . -type d
+.
+./Labs
+./Labs/lab1
+./Labs/lab1/CS2211a
+./Labs/lab1/CS2211a/CS2211a
+./fall2018lab
+./Asns
+./Asns/asn1
+./Asns/asn1/dir1
+./Asns/asn1/dir0
+bash-4.2$ find . -type f -name "d*"
+./Asns/asn1/df1
+./Asns/asn1/dir0/dir0
+./Asns/asn1/df0
+bash-4.2$ find . -type f -mtime -2
+./question4
+./Asns/asn1/question3clean
+./Asns/asn1/df1
+./Asns/asn1/dir0/dir0
+./Asns/asn1/df0
+bash-4.2$ exit
+exit
+
+Script done on Tue 25 Sep 2018 01:39:11 PM EDT
