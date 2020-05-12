@@ -1,0 +1,15 @@
+Script started on Sat 17 Nov 2018 11:09:24 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/jpark728/cs2211/asn4
+bash-4.2$ date
+Sat Nov 17 23:09:28 EST 2018
+bash-4.2$ whoami
+jpark728
+bash-4.2$ ./compute
+bash: ./compute: Text file busy
+bash-4.2$ u[Kuwo[K[K[K./compute
+bash: ./compute: Text file busy
+bash-4.2$ eit[K[Kxit
+exit
+
+Script done on Sat 17 Nov 2018 11:13:08 PM EST
